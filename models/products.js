@@ -23,7 +23,7 @@ const productSchema = new Schema({
         require: true
     }, 
     size: { 
-        type: Number, 
+        type: String, 
         require: true
     },
     moreInfo: { 
